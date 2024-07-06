@@ -1,0 +1,13 @@
+WAL,Size,Value
+durable,10,2080
+legacy,10,1894
+durable,100,3842
+legacy,100,3837
+durable,500,17353
+legacy,500,16914
+durable,1000,33308
+legacy,1000,36541
+durable,10000,311686
+legacy,10000,328238
+durable,50000,1728148
+legacy,50000,1721078
